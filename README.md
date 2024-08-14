@@ -1,5 +1,5 @@
-<p align="center"> <a href="https://twitter.com/syipmong" target="blank"><img src="https://img.shields.io/twitter/follow/syipmong?logo=twitter&style=for-the-badge" alt="syipmong" /></a> </p>
-<img src="[https://www.lambdatest.com/resources/images/news24.gif](https://static.vecteezy.com/system/resources/previews/047/371/168/mp4/investment-dividends-growth-increase-profit-and-earning-passive-income-from-stock-market-return-on-alpha-channel-free-video.mp4)" alt="coding" align="right" width="400">
+
+<img src="[https://static.vecteezy.com/system/resources/previews/047/371/168/mp4/investment-dividends-growth-increase-profit-and-earning-passive-income-from-stock-market-return-on-alpha-channel-free-video.mp4]" alt="coding" align="right" width="400">
 
 # My GitHub Profile
 
@@ -16,11 +16,17 @@ Over 08 years of experience in data analysis, digital marketing and project mana
 ## Skills
 
 • Data Analysis
+
 • Project Management
+
 • Digital Marketing
+
 • Monitoring and Evaluation
+
 • Digital transformation of businesses
+
 • Database : MySQL, PostgreSQL, Azure SQL DataBase
+
 • Data analysis : Python, R, Excel, Power BI, Tableau, Looker studio
 
 ## Education
