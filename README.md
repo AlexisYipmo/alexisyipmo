@@ -26,25 +26,30 @@ Over 08 years of experience in data analysis, digital marketing and project mana
 
 ## Education
 
-• Ecole nationale supérieure polytechnique de Yaoundé
+• Ecole nationale supérieure polytechnique de Yaoundé : 
 Master’s degree in Applied statistics, 2016
 
-• University of Yaounde1
+• University of Yaounde1 : 
 Bachelor in Mathematics, 2014
 
-• Microsoft Certification
+• Microsoft Certification : 
 Power BI Data Analyst Associate, 2024
 
-• Cornerstone OnDemand Foundation
+• Cornerstone OnDemand Foundation : 
 MEAL Essentials Certificate, 2024
 
-• Google
+• Google : 
 Certified Google Analytics Specialist, 2017
 
 ## Contact
 
 Feel free to contact me for any inquiries or to collaborate on a project.
+
 • Email: yipmoalexis@gmail.com
+
+• WhatsApp : https://wa.me/237694610678
+
 • LinkedIn: https://www.linkedin.com/in/alexisyipmo57265a12/
-• WhatsApp : wa.me/237694610678
+
+
 
