@@ -1,6 +1,6 @@
 ## About Me
 
-Over 08 years of experience in data analysis, digital marketing and project management, I'm graduated in applied statistics and certified Power BI Data Analyst. I have demonstrated expertise in analyzing and optimizing business performance, as well as developing data models and data visualizations. My mastery of SQL and programming in Python and R allows me to simplify complex concepts to extract actionable insights. 
+Over 08 years of experience in data science, digital marketing and project management, I'm graduated in applied statistics and certified Power BI Data Analyst. I have demonstrated expertise in analyzing and optimizing business performance, as well as developing data models and data visualizations. My mastery of SQL and programming in Python and R allows me to simplify complex concepts to extract actionable insights. 
 
 🚀 My background includes analyzing data to generate actionable insights, managing business performance KPIs, and collaborating with cross-functional teams to align reporting needs.
 
@@ -10,7 +10,7 @@ Over 08 years of experience in data analysis, digital marketing and project mana
 
 ## Skills
 
-• Data Analysis
+• Data Science
 
 • Project Management
 
