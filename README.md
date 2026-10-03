@@ -1,42 +1,55 @@
-# Hi, I'm Alexis Yipmo
+## About Me
 
-**Senior data consultant** with 10 years of experience across data engineering, business intelligence and applied statistics.
-I build data platforms, decision dashboards and statistical analyses for organisations in Africa and Europe, including GIZ, Enko Education and OpenClassrooms.
-Founder of DataOptime. MSc in Applied Statistics, Microsoft Certified Power BI Data Analyst (PL-300).
+Over 08 years of experience in data science, digital marketing and project management, I'm graduated in applied statistics and certified Power BI Data Analyst. I have demonstrated expertise in analyzing and optimizing business performance, as well as developing data models and data visualizations. My mastery of SQL and programming in Python and R allows me to simplify complex concepts to extract actionable insights. 
 
-## Impact
+🚀 My background includes analyzing data to generate actionable insights, managing business performance KPIs, and collaborating with cross-functional teams to align reporting needs.
 
-- **-96 % spam and fraud** on the Afrimalin marketplace through data-driven moderation rules
-- **13 schools in 9 countries** covered by the Enko Education reporting platform
-- **40+ data analysts mentored** at OpenClassrooms
+💡 Beyond my technical and managerial skills, I have transversal skills which allow me to always successfully carry out the projects I manage: Integrity, respect for other, professionalism, teamwork, good communication and results oriented. 
 
-## Stack
+🌐 I would later like to pursue a PhD in causal inference, machine learning or natural language processing, and collaborate on international projects.
 
-| Area | Tools |
-|---|---|
-| Data engineering | SQL, PostgreSQL, Azure SQL, dbt, Airflow, Airbyte, Talend |
-| Business intelligence | Power BI (PL-300 certified), DAX, Power Query |
-| Statistics & ML | R, Python, survival analysis, econometrics, scikit-learn |
-| Monitoring & evaluation | MEAL frameworks, indicator design, impact reporting |
+## Skills
 
-## Featured projects
+• Data Science
 
-| Project | What it shows |
-|---|---|
-| [PBI-Superstore-sales-report](https://github.com/AlexisYipmo/PBI-Superstore-sales-report) | Power BI sales report that pinpoints which products, customers and discounts drive or destroy profit |
-| [R-Survival-curve](https://github.com/AlexisYipmo/R-Survival-curve) | Reusable R function for Kaplan-Meier survival curves, ready for any time-to-event dataset |
-| [R-Mosquitoes-longevity-analysis](https://github.com/AlexisYipmo/R-Mosquitoes-longevity-analysis) | Survival analysis measuring how bednet exposure shortens mosquito lifespan |
-<!-- | [selection-fairness-audit](https://github.com/AlexisYipmo/selection-fairness-audit) | Coming soon | -->
-<!-- | [project-name](https://github.com/AlexisYipmo/project-name) | Data engineering pipeline (dbt + Airflow) - coming soon | -->
-<!-- | [project-name](https://github.com/AlexisYipmo/project-name) | MEAL indicator dashboard - coming soon | -->
+• Project Management
 
-## Certifications
+• Digital Marketing
 
-- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
-- MEAL Essentials, Cornerstone OnDemand Foundation
+• Monitoring and Evaluation
+
+• Digital transformation of businesses
+
+• Database : MySQL, PostgreSQL, Azure SQL DataBase
+
+• Data analysis : Python, R, Excel, Power BI, Tableau, Looker studio
+
+## Education
+
+• Ecole nationale supérieure polytechnique de Yaoundé : 
+Master’s degree in Applied statistics, 2016
+
+• University of Yaounde1 : 
+Bachelor in Mathematics, 2014
+
+• Microsoft Certification : 
+Power BI Data Analyst Associate, 2024
+
+• Cornerstone OnDemand Foundation : 
+MEAL Essentials Certificate, 2024
+
+• Google : 
+Certified Google Analytics Specialist, 2017
 
 ## Contact
 
-- Email: [yipmoalexis@gmail.com](mailto:yipmoalexis@gmail.com)
-- LinkedIn: [linkedin.com/in/alexisyipmo57265a12](https://www.linkedin.com/in/alexisyipmo57265a12/)
-- WhatsApp: [+237 694 610 678](https://wa.me/237694610678)
+Feel free to contact me for any inquiries or to collaborate on a project.
+
+• Email: yipmoalexis@gmail.com
+
+• WhatsApp : https://wa.me/237694610678
+
+• LinkedIn: https://www.linkedin.com/in/alexisyipmo57265a12/
+
+
+
